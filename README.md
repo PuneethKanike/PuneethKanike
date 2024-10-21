@@ -6,7 +6,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <!-- Responsive Image -->
-<img width="350" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding">
+<img width="450" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneethkanike&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkanike" /> </p>
@@ -22,13 +22,13 @@
 
 - 📫 How to reach me **kanike.puneeth@gmail.com**
 
-<h1 align="center">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/puneeth-kanike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneeth-kanike" height="30" width="40" /></a>
 <a href="https://instagram.com/k_puneeth_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_puneeth_gowda" height="30" width="40" /></a>
 </p>
-</h1>
+
 
 <h1 align="center">
 <h3 align="left">Languages and Tools:</h3>
